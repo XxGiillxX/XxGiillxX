@@ -1,7 +1,7 @@
 
 ## <Fala Dev, Gilberto aqui .../>
 
-- 🔭 Atualmente estou buscando minha primeira oportunidade em desenvolvimento de software, com foco em desenvolvimento back-end.
+- 🔭 Atualmente estou buscando minha primeira oportunidade em desenvolvimento de software, com foco em back-end.
 - 🌱 Estudando:  <a href="https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path">Capgemini Fullstack Java and Angular</a>
 
 <div>
