@@ -8,12 +8,12 @@
   <a href="https://github.com/XxGiillxX">
 </div>
 <div>
-<h2>Backend</h2>
+<h2>Desenvolvendo</h2>
 <img align="center" alt="Giba-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Giba-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 <div>
-<h2>Frontend</h2>
+<h2>Aprendendo</h2>
 <img align="center" alt="Giba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Giba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Giba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
