@@ -11,20 +11,18 @@
 <h2>Desenvolvendo</h2>
 <img align="center" alt="Giba-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Giba-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-</div>
-<div>
-<h2>Aprendendo</h2>
 <img align="center" alt="Giba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Giba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Giba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Giba-Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Giba-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  
-  <img align="center" alt="Giba-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
-  <img align="right" height="180em" alt="Giba-yoda" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif">
+</div>
+<div>
+<h2>Aprendendo</h2>
+<div style="display: inline_block"><br> 
+<img align="center" alt="Giba-Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Giba-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Giba-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+<img align="right" height="180em" alt="Giba-yoda" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif">
 </div>
 
 
