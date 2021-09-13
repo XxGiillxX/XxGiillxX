@@ -9,6 +9,7 @@
 </div>
 <div>
 <h2>Desenvolvendo</h2>
+<p>60%</p>
 <img align="center" alt="Giba-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Giba-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="center" alt="Giba-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
