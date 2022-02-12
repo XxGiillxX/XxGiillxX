@@ -1,8 +1,7 @@
 
-## <Fala Dev, Gilberto aqui .../>
+## <Gilberto aqui .../>
 
-- 🔭 Atualmente estou buscando minha primeira oportunidade em desenvolvimento de software, com foco em back-end.
-- 🌱 Estudando:  <a href="https://web.dio.me/track/cognizant-java-developer">Cognizant Java Developer</a>
+- 🔭 Vivendo o mundo de desenvolvimento de software.
 
 <div>
   <a href="https://github.com/XxGiillxX">
