@@ -21,6 +21,10 @@
 <img align="center" alt="Giba-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 </div>
+<div>
+<img align="center" alt="Giba-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
+</div>
 
 
 
